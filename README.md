@@ -10,45 +10,12 @@ pkg install python-pip
 pip install telethon
 ```
 Once the packages are installed, follow the steps below:
+```markdown
+### 1. clone the repository:
 
-1. Clone the repository:
-
+```bash
 git clone https://github.com/Ainuncantik/Userbotpromotele.git
+### 1. navigate to the cloned directory:
 
-2. Navigate to the cloned directory:
-
+```bash
 cd Userbotpromotele
-
-3. Install required dependencies:
-
-pip install -r requirements.txt
-
-4. Run the script:
-
-python UserBot.py
-
-Commands
-
-Promote
-
-Gunakan perintah berikut untuk mengirim pesan promosi:
-
-/promote [teks]
-
-Contoh:
-
-/promote Halo, ini pesan promosi saya.
-
-Help
-
-Untuk melihat daftar perintah:
-
-/help
-
-Requirements
-
-* Python
-* Git
-* Python-pip
-* Telethon
-5. Enter your phone number (+62) and Telegram SMS code when prompted.
