@@ -15,7 +15,8 @@ Once the packages are installed, follow the steps below:
 
 ```bash
 git clone https://github.com/Ainuncantik/Userbotpromotele.git
-### 1. navigate to the cloned directory:
+
+### 2. navigate to the cloned directory:
 
 ```bash
 cd Userbotpromotele
