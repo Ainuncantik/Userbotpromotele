@@ -9,14 +9,8 @@ pkg install git
 pkg install python-pip
 pip install telethon
 ```
+Markdown
 Once the packages are installed, follow the steps below:
-```markdown
-# 1. clone the repository:
-
+### 1. Kloning repositori:
 ```bash
 git clone https://github.com/Ainuncantik/Userbotpromotele.git
-
-# 2. navigate to the cloned directory:
-
-```bash
-cd Userbotpromotele
